@@ -1,8 +1,5 @@
 ## Project Machine Learning - Loan Campaign
 ### Personal Loan - Advertising Model
-- Class: UT ML/AC Certificate:
-- Name: Daniel Levenstein
-- Submission Date: 09/5/2025
 
 ## Problem Statement
 
@@ -18,7 +15,11 @@ You as a Data scientist at AllLife bank have to build a model that will help the
 
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
 
-### Final Model Selection
+### Features
+- Generated decision tree models to determine which users were most likely to purchase loans.
+- Tuned hyperparameters of model to determine best fit.
+- Evaluated final models using a combination of precision and recall score.
+### Final Model Stats
 
 | Name--  | accuracy | precision | recall | f1 Score |
 |---------|----------|-----------|--------|----------|
@@ -40,3 +41,8 @@ To predict whether a liability customer will buy personal loans, to understand w
 - I think the bank should create a marketing campaign that send out loan offers to the individuals flagged by model 3.
 #### Additional Thoughts
 - With more data model 1 could potentially be used for loan approvals but final decisions on loan approvals should still be left to individuals.
+
+# Project 
+- Class: UT ML/AC Certificate:
+- Name: Daniel Levenstein
+- Submission Date: 09/5/2025
